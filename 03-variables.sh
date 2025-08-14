@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PERSON1=Jeevani
+PERSON1=Jeevani #there should be no space before and after equal (=)
 PERSON2=Bashu
 
 echo "$PERSON1: Hi $PERSON2, How areyou doing?"
